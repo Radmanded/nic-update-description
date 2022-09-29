@@ -1,0 +1,6 @@
+---
+SW1:
+    hostname: "192.168.122.10"
+    username: "cisco"
+    password: "cisco"
+    platform: "ios"
